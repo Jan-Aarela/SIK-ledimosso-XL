@@ -1,7 +1,7 @@
 // vim: foldmethod=marker ft=c
+// Jan Äärelä ~ 2025
 
 #include <avr/io.h>
-#include <cstdint>
 #include <stdint.h>
 
 //     MCU Pinnit     76543210
