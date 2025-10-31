@@ -1,8 +1,19 @@
-# SIKn logoon perustuva iso ledimössö
+<i>
 
-**! WIP !**
+# SIKn logo ISONA, esimerkiksi kämpille loistamaan.
 
-SIKn salama **ISONA**, vaikkapa kämpille loistamaan.
+! WIP !
+
+  <details>
+  <summary><b> SKEEMA  </b></summary>
+<img src="skeema.svg" alt="alt" width="100%">
+</details>
+
+<details>
+  <summary><b> LEVYT  </b></summary>
+<!-- <img src="skeema.svg" alt="alt" width="100%"> -->
+WIP
+</details>
 
 ## OSALUETTELO
 |KPL | MITÄ               | Esim    |
