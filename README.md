@@ -1,2 +1,3 @@
-# SIK-ledim-ss--XL
-Iso sikin logoon perustuva ledimössö
+# SIKn logoon perustuva iso ledimössö
+
+WIP
